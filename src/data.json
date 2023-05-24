@@ -1,0 +1,128 @@
+[
+  {
+    "id": 4,
+    "page": "app",
+    "in_english": "Cromwell Tools",
+    "to_translate": "Cromwell Unelte",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "page": "app",
+    "in_english": "Cromwell Tools - Experts in Hand Tools, Power Tools, Cutting Tools and PPE",
+    "to_translate": "Cromwell Unelte - Experți în scule de mână, scule electrice, scule de tăiere și EIP",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "page": "app",
+    "in_english": "Cromwell Tools & Industrial Supplies",
+    "to_translate": "Cromwell Unelte - Materiale industriale",
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "page": "basket",
+    "in_english": "Your Basket",
+    "to_translate": "Coșul tău",
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "page": "basket",
+    "in_english": "Basket Total",
+    "to_translate": "Total Coș",
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "page": "basket",
+    "in_english": "Total",
+    "to_translate": "Total",
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "page": "basket",
+    "in_english": "Grand Total",
+    "to_translate": "Total Final",
+    "notes": ""
+  },
+  {
+    "id": 26,
+    "page": "basket",
+    "in_english": "VAT",
+    "to_translate": "TVA",
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "page": "basket",
+    "in_english": "Inc",
+    "to_translate": "Incl.",
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "page": "basket",
+    "in_english": "Ex",
+    "to_translate": "Excl.",
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "page": "basket",
+    "in_english": "Total Goods",
+    "to_translate": "Total Produse",
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "page": "basket",
+    "in_english": "Delivery",
+    "to_translate": "Livrare",
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "page": "basket",
+    "in_english": "VAT Total",
+    "to_translate": "Total TVA",
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "page": "basket",
+    "in_english": "Shared Basket",
+    "to_translate": "Coș Partajat",
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "page": "basket",
+    "in_english": "Empty Basket",
+    "to_translate": "Golește Coșul",
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "page": "basket",
+    "in_english": "Secure Checkout",
+    "to_translate": "Plată Securizată",
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "page": "basket",
+    "in_english": "Grand Total Inc VAT",
+    "to_translate": "Total Final Incl. TVA",
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "page": "basket",
+    "in_english": "Order Notes – for online use only and will not be printed",
+    "to_translate": "Note de comandă – numai pentru utilizare online și nu vor fi tipărite",
+    "notes": ""
+  }
+]
