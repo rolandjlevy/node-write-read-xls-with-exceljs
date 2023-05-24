@@ -150,7 +150,8 @@ const readExcelFile = async ({ fileName }) => {
   }
   return excelData;
 }
-  
+
+// Main function to write and then read Excel file
 const main = async () => {
   await writeExcelFile({ 
     fileName: exportedFileName, 
